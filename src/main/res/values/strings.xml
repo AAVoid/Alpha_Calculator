@@ -1,0 +1,248 @@
+<resources>
+    <!-- STRING PAR DEFAUT : LANGUE ANGLAISE -->
+
+    <string name="app_name">Alpha</string>
+    <string name="developer_name">Aymerik ABOSO</string>
+    <string name="content_description_logo">Application logo</string>
+
+    <!-- BOUTON CALCULATRICE CLAVIER SIMPLE NON SCIENTIFIQUE -->
+    <string name="bouton_C">C</string>
+    <string name="bouton_A">ANS</string>
+    <string name="bouton_parenthese_ouvrante">(</string>
+    <string name="bouton_parenthese_fermante">)</string>
+    <string name="bouton_0">0</string>
+    <string name="bouton_1">1</string>
+    <string name="bouton_2">2</string>
+    <string name="bouton_3">3</string>
+    <string name="bouton_4">4</string>
+    <string name="bouton_5">5</string>
+    <string name="bouton_6">6</string>
+    <string name="bouton_7">7</string>
+    <string name="bouton_8">8</string>
+    <string name="bouton_9">9</string>
+    <string name="bouton_point">.</string>
+    <string name="bouton_egal">=</string>
+    <string name="bouton_egal_fonction"> = </string>
+    <string name="bouton_plus">+</string>
+    <string name="bouton_moins">-</string>
+    <string name="bouton_multiplier">×</string>
+    <string name="bouton_diviser">÷</string>
+    <string name="bouton_puissance">^</string>
+    <string name="bouton_effacer_caractere">←</string>
+    <string name="bouton_fonction_texte">F(...)</string>
+    <string name="bouton_historique_texte">HISTO</string>
+    <string name="bouton_information_appli_texte">INFO</string>
+
+    <string name="NaN">NaN</string>
+    <string name="sousTitreCalculatrice">Calculator</string>
+    <string name="sousTitreHistorique">History</string>
+    <string name="sousTitreInformation">About</string>
+    <string name="sousTitreCatalogue">Catalogue</string>
+
+    <string name="texte_confirmation_effacer_historique">Delete the history ?</string>
+    <string name="texte_confirmation_effacer_historique_oui">Yes</string>
+    <string name="texte_confirmation_effacer_historique_non">No</string>
+    <string name="texte_confirmation_effacer_historique_toast">The history has been deleted</string>
+
+    <string name="texte_information_application">
+        <!-- VOIR LES REMPLACEMENTS DE __XX DANS L'ACTIVITE INFORMATION APPLICATION  -->
+        __01💡 __00Version :__02 __061__07__04.__05__063__07__01__01
+        👤 __00Developer__02__01__06Aymerik__07 ABOSO__01__01
+        ⏰ __00Date :__02__06 2017__07__01__01
+        __00Contact information__02__01aboso__06aymerik__07@gmail.com__01__01
+        ✔️__00Acknowledgements__02__01
+        🔹__06mXparser__07__01__01
+        __06Alpha__07 is an application originating from a student project for discovering Android as a developer.__01
+        The __06goal__07 of this project was creating an as complete as possible calculator before the deadline.__01__01
+        ⚙️__00Useful information__02__01__06Angles reference__07 : __06Radian__07 or use __08rad__09 function to
+        convert a degree angle to radian in a calculus.
+    </string>
+
+    <!-- BOUTONS -->
+    <string name="bouton_factorielle">!</string>
+    <string name="bouton_virgule">,</string>
+    <string name="bouton_abs">abs</string>
+    <string name="bouton_arccos">arccos</string>
+    <string name="bouton_arccosech">arccosech</string>
+    <string name="bouton_arccosh">arccosh</string>
+    <string name="bouton_arcctan">arcctan</string>
+    <string name="bouton_arcctanh">arcctanh</string>
+    <string name="bouton_arcsech">arcsech</string>
+    <string name="bouton_arcsin">arcsin</string>
+    <string name="bouton_arcsinh">arcsinh</string>
+    <string name="bouton_arctan">arctan</string>
+    <string name="bouton_arctanh">arctanh</string>
+    <string name="bouton_Comb">C</string>
+    <string name="bouton_ceil">ceil</string>
+    <string name="bouton_cos">cos</string>
+    <string name="bouton_cosec">cosec</string>
+    <string name="bouton_cosech">cosech</string>
+    <string name="bouton_cosh">cosh</string>
+    <string name="bouton_ctan">ctan</string>
+    <string name="bouton_ctanh">ctanh</string>
+    <string name="bouton_deg">deg</string>
+    <string name="bouton_exp">exp</string>
+    <string name="bouton_Fib">Fib</string>
+    <string name="bouton_floor">floor</string>
+    <string name="bouton_gcd">gcd</string>
+    <string name="bouton_int">int</string>
+    <string name="bouton_ispr">ispr</string>
+    <string name="bouton_lcm">lcm</string>
+    <string name="bouton_ln">ln</string>
+    <string name="bouton_log">log</string>
+    <string name="bouton_log10">log10</string>
+    <string name="bouton_log2">log2</string>
+    <string name="bouton_max">max</string>
+    <string name="bouton_mean">mean</string>
+    <string name="bouton_min">min</string>
+    <string name="bouton_mod">mod</string>
+    <string name="bouton_pi">pi</string>
+    <string name="bouton_rad">rad</string>
+    <string name="bouton_sec">sec</string>
+    <string name="bouton_sech">sech</string>
+    <string name="bouton_sin">sin</string>
+    <string name="bouton_sinh">sinh</string>
+    <string name="bouton_solve">solve</string>
+    <string name="bouton_sqrt">sqrt</string>
+    <string name="bouton_tan">tan</string>
+    <string name="bouton_tanh">tanh</string>
+    <string name="bouton_x">x</string>
+
+    <!-- CATALOGUE DESCRIPTION ANGLAIS -->
+    <string name="catalogue_desc_0">Digit 0</string>
+    <string name="catalogue_desc_1">Digit 1</string>
+    <string name="catalogue_desc_2">Digit 2</string>
+    <string name="catalogue_desc_3">Digit 3</string>
+    <string name="catalogue_desc_4">Digit 4</string>
+    <string name="catalogue_desc_5">Digit 5</string>
+    <string name="catalogue_desc_6">Digit 6</string>
+    <string name="catalogue_desc_7">Digit 7</string>
+    <string name="catalogue_desc_8">Digit 8</string>
+    <string name="catalogue_desc_9">Digit 9</string>
+    <string name="catalogue_desc_factorielle">Factorial</string>
+    <string name="catalogue_desc_parenthese_ouvrante">Opening bracket</string>
+    <string name="catalogue_desc_parenthese_fermante">Closing bracket</string>
+    <string name="catalogue_desc_virgule">Comma</string>
+    <string name="catalogue_desc_point">Dot (decimal number)</string>
+    <string name="catalogue_desc_abs">Absolut value function</string>
+    <string name="catalogue_desc_ADDITION">Addition</string>
+    <string name="catalogue_desc_egal_fonction">For solve function</string>
+    <string name="catalogue_desc_arccos">Inverse trigonometric cosine function</string>
+    <string name="catalogue_desc_arccosech">Inverse hyperbolic cosecant function</string>
+    <string name="catalogue_desc_arccosh">Inverse hyperbolic cosine function</string>
+    <string name="catalogue_desc_arcctan">Inverse trigonometric cotangent function</string>
+    <string name="catalogue_desc_arcctanh">Inverse hyperbolic cotangent function</string>
+    <string name="catalogue_desc_arcsech">Inverse hyperbolic secant function</string>
+    <string name="catalogue_desc_arcsin">Inverse trigonometric sine function</string>
+    <string name="catalogue_desc_arcsinh">Inverse hyperbolic sine function</string>
+    <string name="catalogue_desc_arctan">Inverse trigonometric tangent function</string>
+    <string name="catalogue_desc_arctanh">Inverse hyperbolic tangent function</string>
+    <string name="catalogue_desc_C">Binomial coefficient function</string>
+    <string name="catalogue_desc_ceil">Ceiling function</string>
+    <string name="catalogue_desc_cos">Trigonometric cosine function</string>
+    <string name="catalogue_desc_cosec">Trigonometric cosecant function</string>
+    <string name="catalogue_desc_cosech">Hyperbolic cosecant function</string>
+    <string name="catalogue_desc_cosh">Hyperbolic cosine function</string>
+    <string name="catalogue_desc_ctan">Trigonometric cotangent function</string>
+    <string name="catalogue_desc_ctanh">Hyperbolic cotangent function</string>
+    <string name="catalogue_desc_deg">Radians to degrees function</string>
+    <string name="catalogue_desc_DIVISION">Division</string>
+    <string name="catalogue_desc_exp">Exponential function</string>
+    <string name="catalogue_desc_Fib">Fibonacci number</string>
+    <string name="catalogue_desc_floor">Floor function</string>
+    <string name="catalogue_desc_gcd">Greatest common divisor</string>
+    <string name="catalogue_desc_int">Integral in [x,y]</string>
+    <string name="catalogue_desc_ispr">Prime number test</string>
+    <string name="catalogue_desc_lcm">Least common multiple</string>
+    <string name="catalogue_desc_ln">Natural logarithm function (base e)</string>
+    <string name="catalogue_desc_log">Logarithm function</string>
+    <string name="catalogue_desc_log10">Common logarithm function (base 10)</string>
+    <string name="catalogue_desc_log2">Binary logarithm function (base 2)</string>
+    <string name="catalogue_desc_max">Maximum function</string>
+    <string name="catalogue_desc_mean">Mean / average value</string>
+    <string name="catalogue_desc_min">Minimum function</string>
+    <string name="catalogue_desc_mod">Modulo function</string>
+    <string name="catalogue_desc_MOINS">Subtraction</string>
+    <string name="catalogue_desc_MULTIPLICATION">Multiplication</string>
+    <string name="catalogue_desc_pi">Pi number</string>
+    <string name="catalogue_desc_PUISSANCE">Power</string>
+    <string name="catalogue_desc_rad">Degrees to radians function</string>
+    <string name="catalogue_desc_sec">Trigonometric secant function</string>
+    <string name="catalogue_desc_sech">Hyperbolic secant function</string>
+    <string name="catalogue_desc_sin">Trigonometric sine function</string>
+    <string name="catalogue_desc_sinh">Hyperbolic sine function</string>
+    <string name="catalogue_desc_solve">To solve equation = 0 in [a,b]</string>
+    <string name="catalogue_desc_sqrt">Squre root function</string>
+    <string name="catalogue_desc_tan">Trigonometric tangent function</string>
+    <string name="catalogue_desc_tanh">Hyperbolic tangent function</string>
+    <string name="catalogue_desc_x">x letter (for equation solver or integral calculation)</string>
+
+    <!-- CATALOGUE EXEMPLES -->
+    <string name="catalogue_exemple_0"></string>
+    <string name="catalogue_exemple_1"></string>
+    <string name="catalogue_exemple_2"></string>
+    <string name="catalogue_exemple_3"></string>
+    <string name="catalogue_exemple_4"></string>
+    <string name="catalogue_exemple_5"></string>
+    <string name="catalogue_exemple_6"></string>
+    <string name="catalogue_exemple_7"></string>
+    <string name="catalogue_exemple_8"></string>
+    <string name="catalogue_exemple_9"></string>
+    <string name="catalogue_exemple_factorielle">a!</string>
+    <string name="catalogue_exemple_parenthese_ouvrante">(...</string>
+    <string name="catalogue_exemple_parenthese_fermante">...)</string>
+    <string name="catalogue_exemple_virgule"></string>
+    <string name="catalogue_exemple_point"></string>
+    <string name="catalogue_exemple_abs">abs(a)</string>
+    <string name="catalogue_exemple_ADDITION">a+b</string>
+    <string name="catalogue_exemple_egal_fonction"></string>
+    <string name="catalogue_exemple_arccos">arccos(a)</string>
+    <string name="catalogue_exemple_arccosech">arccosech(a)</string>
+    <string name="catalogue_exemple_arccosh">arccosh(a)</string>
+    <string name="catalogue_exemple_arcctan">arcctan(a)</string>
+    <string name="catalogue_exemple_arcctanh">arcctanh(a)</string>
+    <string name="catalogue_exemple_arcsech">arcsech(a)</string>
+    <string name="catalogue_exemple_arcsin">arcsin(a)</string>
+    <string name="catalogue_exemple_arcsinh">arcsinh(a)</string>
+    <string name="catalogue_exemple_arctan">arctan(a)</string>
+    <string name="catalogue_exemple_arctanh">arctanh(a)</string>
+    <string name="catalogue_exemple_C">C(n,k)</string>
+    <string name="catalogue_exemple_ceil">ceil(a)</string>
+    <string name="catalogue_exemple_cos">cos(a)</string>
+    <string name="catalogue_exemple_cosec">cosec(a)</string>
+    <string name="catalogue_exemple_cosech">cosech(a)</string>
+    <string name="catalogue_exemple_cosh">cosh(a)</string>
+    <string name="catalogue_exemple_ctan">ctan(a)</string>
+    <string name="catalogue_exemple_ctanh">ctanh(a)</string>
+    <string name="catalogue_exemple_deg">deg(a)</string>
+    <string name="catalogue_exemple_DIVISION">a÷b</string>
+    <string name="catalogue_exemple_exp">exp(a)</string>
+    <string name="catalogue_exemple_Fib">Fib(a)</string>
+    <string name="catalogue_exemple_floor">floor(a)</string>
+    <string name="catalogue_exemple_gcd">gcd(a,b,c,...)</string>
+    <string name="catalogue_exemple_int">int(a+1, a, x, y)</string>
+    <string name="catalogue_exemple_ispr">ispr(a)</string>
+    <string name="catalogue_exemple_lcm">lcm(a,b,c,...)</string>
+    <string name="catalogue_exemple_ln">ln(a)</string>
+    <string name="catalogue_exemple_log">log(a,b)</string>
+    <string name="catalogue_exemple_log10">log10(a)</string>
+    <string name="catalogue_exemple_log2">log2(a)</string>
+    <string name="catalogue_exemple_max">max(a,b,c,...)</string>
+    <string name="catalogue_exemple_mean">mean(a,b,c,...)</string>
+    <string name="catalogue_exemple_min">min(a,b,c,...)</string>
+    <string name="catalogue_exemple_mod">mod(a,b)</string>
+    <string name="catalogue_exemple_MOINS">a-b</string>
+    <string name="catalogue_exemple_MULTIPLICATION">a×b</string>
+    <string name="catalogue_exemple_pi"></string>
+    <string name="catalogue_exemple_PUISSANCE">a^b</string>
+    <string name="catalogue_exemple_rad">rad(a)</string>
+    <string name="catalogue_exemple_sec">sec(a)</string>
+    <string name="catalogue_exemple_sech">sech(a)</string>
+    <string name="catalogue_exemple_sin">sin(a)</string>
+    <string name="catalogue_exemple_sinh">sinh(a)</string>
+    <string name="catalogue_exemple_solve">solve(2×x - 32, x, a, b)</string>
+    <string name="catalogue_exemple_sqrt">sqrt(a)</string>
+    <string name="catalogue_exemple_tan">tan(a)</string>
+    <string name="catalogue_exemple_tanh">tanh(a)</string>
+    <string name="catalogue_exemple_x"></string>
+</resources>

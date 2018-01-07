@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="content_description_logo">Logo application</string>
+
+    <string name="sousTitreCalculatrice">Calculatrice</string>
+    <string name="sousTitreHistorique">Historique</string>
+    <string name="sousTitreInformation">A propos...</string>
+
+    <string name="texte_confirmation_effacer_historique">Effacer l\'historique ?</string>
+    <string name="texte_confirmation_effacer_historique_oui">Oui</string>
+    <string name="texte_confirmation_effacer_historique_non">Non</string>
+    <string name="texte_confirmation_effacer_historique_toast">L\'historique a été effacé</string>
+
+    <string name="texte_information_application">
+        <!-- VOIR LES REMPLACEMENTS DE __XX DANS L'ACTIVITE INFORMATION APPLICATION  -->
+        __01💡 __00Version :__02 __061__07__04.__05__063__07__01__01
+        👤 __00Développeur__02__01__06Aymerik__07 ABOSO__01__01
+        ⏰ __00Date :__02__06 2017__07__01__01
+        __00Contact__02__01aboso__06aymerik__07@gmail.com__01__01
+        ✔️__00Remerciements__02__01
+        🔹__06mXparser__07__01__01
+        __06Alpha__07 est une application issue d\'un projet étudiant de découverte d\'Android en tant que développeur.__01
+        Le __06but__07 de ce projet était de réaliser une calculatrice la plus complète que possible avant la date de remise.
+        __01__01
+        ⚙️__00Informations utiles__02__01__06Angles en radian__07 ou utiliser la fonction __08rad__09 pour convertir
+        un angle en degré en radian dans un calcul.
+    </string>
+
+    <!-- CATALOGUE DESCRIPTION FRANCAIS -->
+    <string name="catalogue_desc_0">Nombre 0</string>
+    <string name="catalogue_desc_1">Nombre 1</string>
+    <string name="catalogue_desc_2">Nombre 2</string>
+    <string name="catalogue_desc_3">Nombre 3</string>
+    <string name="catalogue_desc_4">Nombre 4</string>
+    <string name="catalogue_desc_5">Nombre 5</string>
+    <string name="catalogue_desc_6">Nombre 6</string>
+    <string name="catalogue_desc_7">Nombre 7</string>
+    <string name="catalogue_desc_8">Nombre 8</string>
+    <string name="catalogue_desc_9">Nombre 9</string>
+    <string name="catalogue_desc_factorielle">Factorielle</string>
+    <string name="catalogue_desc_parenthese_ouvrante">Parenthèse ouvrante</string>
+    <string name="catalogue_desc_parenthese_fermante">Parenthèse fermante</string>
+    <string name="catalogue_desc_virgule">Virgule</string>
+    <string name="catalogue_desc_point">Point (nombre décimal)</string>
+    <string name="catalogue_desc_abs">Fonction valeur absolue</string>
+    <string name="catalogue_desc_ADDITION">Addition</string>
+    <string name="catalogue_desc_egal_fonction">Pour la fonction solve</string>
+    <string name="catalogue_desc_arccos">Fonction cosinus inverse</string>
+    <string name="catalogue_desc_arccosech">Fonction cosécante hyperbolique inverse</string>
+    <string name="catalogue_desc_arccosh">Fonction cosinus hyperbolique inverse</string>
+    <string name="catalogue_desc_arcctan">Fonction cotangente inverse</string>
+    <string name="catalogue_desc_arcctanh">Fonction cotangente hyperbolique inverse</string>
+    <string name="catalogue_desc_arcsech">Fonction sécante hyperbolique inverse</string>
+    <string name="catalogue_desc_arcsin">Fonction sinus inverse</string>
+    <string name="catalogue_desc_arcsinh">Fonction sinus hyperbolique inverse</string>
+    <string name="catalogue_desc_arctan">Fonction tangente inverse</string>
+    <string name="catalogue_desc_arctanh">Fonction tangente hyperbolique inverse</string>
+    <string name="catalogue_desc_C">Fonction coefficient binomial</string>
+    <string name="catalogue_desc_ceil">Fonction ceil, plus petit entier supérieur ou egal à a</string>
+    <string name="catalogue_desc_cos">Fonction cosinus</string>
+    <string name="catalogue_desc_cosec">Fonction cosécante</string>
+    <string name="catalogue_desc_cosech">Fonction cosécante hyperbolique</string>
+    <string name="catalogue_desc_cosh">Fonction cosinus hyperbolique</string>
+    <string name="catalogue_desc_ctan">Fonction cotangente</string>
+    <string name="catalogue_desc_ctanh">Fonction cotangente hyperbolique</string>
+    <string name="catalogue_desc_deg">Fonction de conversion radian -> degré</string>
+    <string name="catalogue_desc_DIVISION">Division</string>
+    <string name="catalogue_desc_exp">Fonction exponentielle</string>
+    <string name="catalogue_desc_Fib">Fonction suite de Fibonacci, terme a de la suite</string>
+    <string name="catalogue_desc_floor">Fonction floor, plus grand entier inférieur ou égal à a</string>
+    <string name="catalogue_desc_gcd">Fonction plus petit diviseur commun</string>
+    <string name="catalogue_desc_int">Intégrale sur [x,y]</string>
+    <string name="catalogue_desc_ispr">Fonction test de primalité</string>
+    <string name="catalogue_desc_lcm">Fonction plus petit multiple commun</string>
+    <string name="catalogue_desc_ln">Fonction logarithme népérien</string>
+    <string name="catalogue_desc_log">Fonction logarithme base b</string>
+    <string name="catalogue_desc_log10">Fonction logarithme base 10</string>
+    <string name="catalogue_desc_log2">Fonction logarithme base 2</string>
+    <string name="catalogue_desc_max">Fonction maximum</string>
+    <string name="catalogue_desc_mean">Fonction moyenne</string>
+    <string name="catalogue_desc_min">Fonction minimum</string>
+    <string name="catalogue_desc_mod">Fonction modulo</string>
+    <string name="catalogue_desc_MOINS">Soustraction</string>
+    <string name="catalogue_desc_MULTIPLICATION">Multiplication</string>
+    <string name="catalogue_desc_pi">Nombre Pi</string>
+    <string name="catalogue_desc_PUISSANCE">Puissance</string>
+    <string name="catalogue_desc_rad">Fonction de conversion degré -> radian</string>
+    <string name="catalogue_desc_sec">Fonction sécante</string>
+    <string name="catalogue_desc_sech">Fonction sécante hyperbolique</string>
+    <string name="catalogue_desc_sin">Fonction sinus</string>
+    <string name="catalogue_desc_sinh">Fonction sinus hyperbolique</string>
+    <string name="catalogue_desc_solve">Pour résoudre une équation = 0 sur [a,b]</string>
+    <string name="catalogue_desc_sqrt">Fonction racine carrée</string>
+    <string name="catalogue_desc_tan">Fonction tangente</string>
+    <string name="catalogue_desc_tanh">Fonctin tangente hyperbolique</string>
+    <string name="catalogue_desc_x">Lettre x (pour la résolution d\'équation ou calcul d'intégrale)</string>
+</resources>

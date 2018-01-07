@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3f51b5</color>
+    <color name="colorPrimaryDark">#303f9f</color>
+    <color name="colorAccent">#ff4081</color>
+
+
+    <!-- EN CAS DE MISE A JOUR DES COULEURS UTILISEES POUR LE CLAVIER,
+    CONTROLER QUE LA CLASSE COLOR TEXT EST A JOUR
+    + TEXTE INFORMATION APPLICATION POUR COLORATION-->
+    <color name="couleur_operateurs">#00b0f0</color>
+    <color name="couleur_operateurs_fonctions">#f4a442</color>
+    <color name="couleur_fond_bouton_egal">#00b0f0</color>
+    <color name="couleur_annuler">#ff0000</color>
+    <color name="couleur_calcul_zone_affichage">#000000</color>
+    <color name="couleur_ligne_resultat_histo">#f7f7f7</color>
+    <color name="couleur_ligne_fonction_exemple_catalogue">#f7f7f7</color>
+
+    <!-- -->
+    <color name="couleur_debut_degrade_background">#ffffff</color>
+    <color name="couleur_fin_degrade_background">#9bc2ff</color>
+</resources>
